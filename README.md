@@ -3,7 +3,11 @@
 I've been using for months Huawei P40 Pro but I don't like some of the apps that has included Huawei in their firmwares so this is a clean.
 
 ## Usage (WIP)
+Just launch the following command:
 
+./launcher.sh
+
+It's required to have installed adb. By the moment only for UNIX systems.
 
 ## Authors
 ### Core Team (in order of first code contribution)
