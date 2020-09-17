@@ -5,9 +5,9 @@ I've been using for months Huawei P40 Pro but I don't like some of the apps that
 ## Usage (WIP)
 Just launch the following command:
 
-./launcher.sh
+./launcher.sh <remove|restore> <debloat list>
 
-It's required to have installed adb. By the moment only for UNIX systems.
+It's required to have installed adb. By the moment only for UNIX systems. Can be used on windows after installing GIT and using GIT console.
 
 ## Authors
 ### Core Team (in order of first code contribution)
