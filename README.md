@@ -5,9 +5,12 @@ I've been using for months Huawei P40 Pro but I don't like some of the apps that
 ## Usage (WIP)
 Just launch the following command:
 
-./launcher.sh <remove|restore> <debloat list>
+./launcher.sh remove|restore debloat_list_filename
 
 It's required to have installed adb. By the moment only for UNIX systems. Can be used on windows after installing GIT and using GIT console.
+
+Remove or restore option must be used
+Debloat_list_filename must be in Devices Folder and the one uploaded is "p40pro.qtk". It's a text file and can be edited.
 
 ## Authors
 ### Core Team (in order of first code contribution)
