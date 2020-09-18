@@ -16,6 +16,7 @@ com.hisi.mapcon
 com.huawei.android.chr
 com.huawei.android.findmyphone
 com.huawei.android.FloatTasks
+com.huawei.android.hsf
 com.huawei.android.hwupgradeguide
 com.huawei.android.instantonline
 com.huawei.android.instantshare
@@ -25,6 +26,7 @@ com.huawei.android.totemweather
 com.huawei.android.wfdft
 com.huawei.aod
 com.huawei.appmarket
+com.huawei.arengine.service
 com.huawei.bd
 com.huawei.bluetooth
 com.huawei.browser
@@ -34,10 +36,11 @@ com.huawei.contactscamcard
 com.huawei.controlcenter
 com.huawei.desktop.explorer
 com.huawei.email
+com.huawei.entitlement
 com.huawei.fastapp
 com.huawei.featurelayer.sharedfeature.map
-com.huawei.gameassistant
 com.huawei.game.kitserver
+com.huawei.gameassistant
 com.huawei.health
 com.huawei.hiaction
 com.huawei.hiassistantoversea
@@ -53,6 +56,7 @@ com.huawei.hwblockchain
 com.huawei.hwdetectrepair
 com.huawei.hwdockbar
 com.huawei.hwid
+com.huawei.HwMultiScreenShot
 com.huawei.hwpanpayservice
 com.huawei.hwsearch
 com.huawei.hwvoipservice
@@ -69,6 +73,7 @@ com.huawei.music
 com.huawei.mycenter
 com.huawei.nearby
 com.huawei.notepad
+com.huawei.numberidentity
 com.huawei.parentcontrol
 com.huawei.pcassistant
 com.huawei.phoneservice
@@ -77,13 +82,16 @@ com.huawei.printservice
 com.huawei.rcsserviceapplication
 com.huawei.recsys
 com.huawei.scanner
+com.huawei.screenrecorder
 com.huawei.search
 com.huawei.securitymgr
 com.huawei.soundrecorder
 com.huawei.tips
 com.huawei.trustagent
 com.huawei.trustcircle
+com.huawei.videoeditor
 com.huawei.wallet
+com.huawei.wallet.sdk.walletsdk
 com.microsoft.amp.apps.bingnews
 com.microsoft.bingintl
 com.microsoft.office.officehubrow
@@ -92,4 +100,3 @@ com.pal.train
 com.swiftkey.swiftkeyconfigurator
 com.touchtype.swiftkey
 ctrip.english
-
