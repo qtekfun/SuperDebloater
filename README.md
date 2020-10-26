@@ -1,6 +1,6 @@
-# SuperDebloater for Huawei P40 Pro
+# SuperDebloater for Huawei P40 Pro and Oneplus 8T
 
-I've been using for months Huawei P40 Pro but I don't like some of the apps that has included Huawei in their firmwares so this is a clean.
+I've been using for months Huawei P40 Pro but I don't like some of the apps that has included Huawei in their firmwares so this is a clean. The same for privacy and battery applies to Oneplus 8T.
 
 ## Usage (WIP)
 Just launch the following command:
