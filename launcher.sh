@@ -10,7 +10,7 @@ echo "Sit down and wait for it to end"
 echo "The log file is here:" $LOGFILE
 
 case $1 in
-	remove* )  echo "Removing apps ...";for file in `cat $APPSFILE`; do echo $file; adb shell pm uninstall -k --user 0 $file; done > $LOGFILE;;
+	remove* )  echo "Removing apps ...";for file in `cat $APPSFILE`; do echo $file; adb shell pm uninstall --user 0 $file; done > $LOGFILE;;
 	restore* ) echo "Restoring Apps ...";for file in `cat $APPSFILE`; do echo $file; adb shell cmd package install-existing $file; done > $LOGFILE;;
 	* ) echo "Wrong argument";;
 esac
