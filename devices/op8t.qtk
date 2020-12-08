@@ -13,6 +13,7 @@ com.android.hotwordenrollment.okgoogle
 com.android.hotwordenrollment.xgoogle
 com.android.htmlviewer
 com.android.keychain
+com.android.ons
 com.android.providers.partnerbookmarks
 com.android.stk
 com.android.traceur
@@ -21,14 +22,10 @@ com.google.android.apps.docs
 com.google.android.apps.googleassistant
 com.google.android.apps.photos
 com.google.android.apps.tachyon
-com.google.android.apps.wellbeing
 com.google.android.apps.work.oobconfig
 com.google.android.apps.youtube.music
 com.google.android.feedback
-com.google.android.gms.location.history
 com.google.android.googlequicksearchbox
-com.google.android.printservice.recommendation
-com.google.android.projection.gearhead
 com.google.android.tts
 com.google.android.videos
 com.google.android.youtube
@@ -74,7 +71,6 @@ com.oneplus.backuprestore
 net.oneplus.odm
 com.google.android.as
 net.oneplus.forums
-com.android.printspooler
 net.oneplus.widget
 com.google.android.apps.walletnfcrel
 com.google.android.apps.podcasts
